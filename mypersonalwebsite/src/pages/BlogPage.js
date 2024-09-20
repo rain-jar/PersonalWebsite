@@ -21,7 +21,7 @@ const BlogPage = ({blogs}) => {
           width: '100%',
           maxWidth: 800, // Limit max width for better readability
           margin: '0 auto', // Center content
-          padding: '20px',
+          padding: '5px',
           backgroundColor: '#121212', // Dark background like the example
           color: 'white',
         }}
@@ -38,7 +38,7 @@ const BlogPage = ({blogs}) => {
                 display: 'flex',
                 justifyContent: 'space-between',
                 alignItems: 'center',
-                padding: '15px',
+                padding: '20px',
                 backgroundColor: '#1e1e1e',
                 borderRadius: '10px',
                 boxShadow: '0px 4px 10px rgba(0, 0, 0, 0.5)',

@@ -18,7 +18,7 @@ const EachBlog = ({ title, date, readTime, content }) => {
                     sx={{
                         width : "120px",
                         display: "flex",
-                        justifyContent: 'flex-start',
+                        justifyContent: 'center',
                         marginBottom: "16px",
                         textTransform: "none",
                         alignItems: 'center',
